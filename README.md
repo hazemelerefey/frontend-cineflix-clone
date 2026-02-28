@@ -1,6 +1,6 @@
 # CineFlix - Streaming Platform Clone
 
-![Project Banner Placeholder](https://via.placeholder.com/800x200?text=CineFlix+Streaming+Clone)
+![Project Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CineFlix%20Streaming%20Clone&fontSize=60&animation=fadeIn&fontAlignY=38)
 
 > A Netflix-inspired movie database exploring app using TMDB API with smooth carousels and detailed movie views.
 
